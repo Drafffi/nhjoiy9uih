@@ -1,0 +1,140 @@
+body {
+background-color: #FFF0F5;
+padding: 25px;
+}
+h1 {
+text-align: center;
+font-family:Courier New;
+color: #2F4F4F;
+margin-bottom: 25px;
+}
+h3 {
+font-family:Klingon;
+color: #2F4F4F;
+margin-bottom: 30px;
+}
+h2 {
+font-family:Garamond;
+color: #808080;
+margin-bottom: 15px;
+}
+p {
+font-family:Comic Sans;
+color: #708090;
+margin-bottom: 20px;
+}
+.flexbox {
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 350px;
+background: #DCDCDC;
+padding: 15px;
+}
+.grid {
+display: grid;
+grid-template-columns: repeat(3, 2fr);
+grid-gap: 150px;
+padding: 10px;
+background: #D3D3D3;
+}
+.item {
+background-color: #FFF8DC;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.item2 {
+background-color:#F8F8FF;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.item3 {
+background-color: #FFFAF0;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.item4 {
+background-color: #FFFAFA;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.item5 {
+background-color: #F0FFFF;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.item6 {
+background-color: #E6E6FA;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.item7 {
+background-color: #E0FFFF;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.item8 {
+background-color: #D8BFD8;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.item9 {
+background-color: #FFE4E1;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+.item10 {
+background-color: #FAF0E6;
+width: 250px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
